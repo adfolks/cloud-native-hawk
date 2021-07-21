@@ -20,10 +20,12 @@ Generate a new Docusaurus site using the **classic template**:
 npx @docusaurus/init@latest init my-website classic
 ```
 
+`This is something which we dont know 
+as`
+
 ## Start your site
 
 Run the development server:
-
 ```shell
 cd my-website
 
